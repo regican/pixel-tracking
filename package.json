@@ -1,0 +1,30 @@
+{
+  "name": "pixel-tracking",
+  "version": "1.0.0",
+  "description": "custom pixel tracking via nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "Regican <regican@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^2.1.1",
+    "mocha": "^2.1.0"
+  },
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/regican/pixel-tracking.git"
+  },
+  "bugs": {
+    "url": "https://github.com/regican/pixel-tracking/issues"
+  },
+  "homepage": "https://github.com/regican/pixel-tracking"
+}
